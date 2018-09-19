@@ -1,0 +1,5 @@
+model-id,model-dir,complete
+ReichLab-KoT,ensemble,true
+ReichLab-KCDE,kcde,true
+ReichLab-KDE,kde,true
+ReichLab-SARIMA2,sarima,true
